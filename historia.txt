@@ -1,0 +1,8 @@
+Esta es la histora de leandro Galvan    
+
+Leandro Galvan nacio en Chacabuco el año 1987, en Argentina
+
+Hoy hablaremos y probaremos Git Github
+
+
+
