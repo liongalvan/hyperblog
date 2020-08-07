@@ -4,5 +4,14 @@ Leandro Galvan nacio en Chacabuco el año 1987, en Argentina. Y tiene 33 años
 
 Hoy hablaremos y probaremos Git Github
 
+Por el momento esta aprendiendo los comandos basicos de Git Github
+
+git show "muestra los cambiso que se hicieron con  los commit"
+
+git diff "muestra los cambios de las versiones que pongamos a continuación"
+
+git diff commitA commitB #Se recomiendda siempre poner el mas viejo primero y despues el segundo
+
+
 
 
