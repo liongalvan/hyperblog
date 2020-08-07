@@ -1,6 +1,6 @@
 Esta es la histora de leandro Galvan    
 
-Leandro Galvan nacio en Chacabuco el año 1987, en Argentina
+Leandro Galvan nacio en Chacabuco el año 1987, en Argentina. Y tiene 33 años
 
 Hoy hablaremos y probaremos Git Github
 
