@@ -1,2 +1,2 @@
 # hyperblog
-Prueba de Git para el curso PATZI.
+Prueba de Git para el curso PLATZI.
