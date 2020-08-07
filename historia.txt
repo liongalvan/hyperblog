@@ -14,9 +14,5 @@ git diff commitA commitB #Se recomiendda siempre poner el mas viejo primero y de
 
 
 
-Tambien programamos en html y con css le dimos estilos 
 
-
-Ahora vamos a probar diferentes reset
-
-ahora si guardamos bien el commit 2
+mañana nos enfocaremos en su vida
