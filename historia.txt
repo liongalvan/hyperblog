@@ -10,7 +10,7 @@ git show "muestra los cambiso que se hicieron con  los commit"
 
 git diff "muestra los cambios de las versiones que pongamos a continuación"
 
-git diff commitA commitB #Se recomiendda siempre poner el mas viejo primero y despues el segundo
+git diff commitA commitB #Se recomiendda siempre poner el mas viejo primero y despues el se
 
 
 
